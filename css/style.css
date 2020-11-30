@@ -329,73 +329,73 @@ a:hover {
     h1 {
         font-size: 100px;
         letter-spacing: -5px;
-        line-height: 100px;
+        line-height: 110px;
     }
 
     h2 {
         font-size: 16px;
         letter-spacing: -0.3px;
-        line-height: 16px;
+        line-height: 22px;
     }
 
     h2 span {
         font-size: 16px;
         letter-spacing: -0.3px;
-        line-height: 16px;
+        line-height: 22px;
     }
 
     h3 {
         font-size: 42px;
         letter-spacing: -1px;
-        line-height: 42px;
+        line-height: 50px;
     }
 
     h4 {
         font-size: 100px;
         letter-spacing: -5px;
-        line-height: 100px;
+        line-height: 110px;
     }
 
     h5 {
         font-size: 24px;
         letter-spacing: -1px;
-        line-height: 24px;
+        line-height: 30px;
     }
 
     p {
         font-size: 16px;
         letter-spacing: -0.3px;
-        line-height: 18px;
+        line-height: 22px;
     }
 
     p span {
         font-size: 16px;
         letter-spacing: -0.3px;
-        line-height: 18px;
+        line-height: 22px;
     }
 
     p em {
         font-size: 16px;
         letter-spacing: -0.3px;
-        line-height: 18px;
+        line-height: 22px;
     }
 
     p b {
         font-size: 16px;
         letter-spacing: -0.3px;
-        line-height: 18px;
+        line-height: 22px;
     }
 
     p.copyright,
     a.copyright {
         font-size: 16px;
         letter-spacing: -0.3px;
-        line-height: 16px;
+        line-height: 22px;
     }
     a {
         font-size: 20px;
         letter-spacing: -0.3px;
-        line-height: 20px;
+        line-height: 26px;
     }
     .cover {
         padding: 10px!important;
@@ -408,18 +408,18 @@ a:hover {
     .emphy span {
         font-size: 16px;
         letter-spacing: -0.3px;
-        line-height: 16px;
+        line-height: 22px;
     }
     .margin100 {
-        margin: 20px 0px;
+        margin: 40px 0px;
     }
 
     .margin50 {
-        margin: 10px 0px;
+        margin: 20px 0px;
     }
 
     .margin20 {
-        margin: 10px 0px;
+        margin: 15px 0px;
     }
 
     .margin10 {
