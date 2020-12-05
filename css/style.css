@@ -300,8 +300,8 @@ a:hover {
 
 /* The Infinity grid */
 .row.grid {
-    width: 101vw;
-    margin-left: -5vw;
+    width: 115vw;
+    margin-left: -15vw;
 }
 
 .infinite-photo-grid {
