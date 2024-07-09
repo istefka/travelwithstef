@@ -2,32 +2,32 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: Guides
-    url: /guide/
+  - name: Projects
+    url: /projects/
     weight: 2
     child:
       - name: "Project Layout 1"
         icon: "/assets/images/icons/wireframe-7.svg"
         icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
         description: "Default Project layout"
-        url: /guide/project-1/
+        url: /projects/project-1/
       - name: "Project Layout 2"
         icon: "/assets/images/icons/wireframe-5.svg"
         icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
         description: "Right side layout"
-        url: /guide/project-2/
+        url: /projects/project-2/
       - name: "Project Layout 3"
         icon: "/assets/images/icons/wireframe-6.svg"
         icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
         description: "Left side layout"
-        url: /guide/project-3/
+        url: /projects/project-3/
       - name: "Project Layout 4"
         icon: "/assets/images/icons/wireframe-8.svg"
         icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: "Top layout"
-        url: /guide/project-4/
-  - name: Journal
-    url: /journal/
+        url: /projects/project-4/
+  - name: Blog
+    url: /blog/
     weight: 2
   - name: About
     url: /about/
@@ -35,16 +35,17 @@ main:
   - name: Contact
     url: /contact/
     weight: 4
+  
 
 footer_primary:
   - name: "Project 1"
-    url: /guide/project-1/
+    url: /projects/project-1/
   - name: "Project 2"
-    url: /guide/project-2/
+    url: /projects/project-2/
   - name: "Project 3"
-    url: /guide/project-3/
+    url: /projects/project-3/
   - name: "Project 4"
-    url: /guide/project-4/
+    url: /projects/project-4/
 
 footer_secondary:
   - name: Blog
