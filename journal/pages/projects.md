@@ -1,11 +1,11 @@
 ---
-layout: guides
-title: Guides
-permalink: "/guides/"
+layout: projects
+title: Projects
+permalink: "/projects/"
 
 projects:
-  heading: "Guides" # "Projects"
-  sub_heading: "A collection of our recent work" # "A collection of our recent work"
+  heading: "" # "Projects"
+  sub_heading: "" # "A collection of our recent work"
   limit: 96
   sort: date # date | weight
   view_more_button_text: "" # "More Projects"

@@ -5,6 +5,7 @@ layout: basic
 permalink: "/privacy-policy/"
 ---
 
+
 We have done our best to create a simple, transparent privacy policy. **Our aim is to collect and store no data, or as little as possible.** We only use cookies that are essential to run this website.
 
 This site is statically generated and served as HTML. Fundamentally this means there is very little surface area for this site to be hacked or compromised. It does not require a database or backend server to process and render documents. Technically there is still a webserver, but it serves pre-rendered documents generated at build time.
@@ -17,7 +18,7 @@ This site is statically generated and served as HTML. Fundamentally this means t
 
 This site uses Plausible Analytics, a privacy focused GDPR compliant analytics alternative to Google Analytics. By using Plausible Analytics, all the site measurement is carried out absolutely anonymously. Cookies are not set and no personal data is collected. All data is in aggregate only. [Learn More](https://plausible.io/privacy-focused-web-analytics)
 
-### Advertising & Marketing
+### Advertising & Marketing 
 
 This site does not include any 3rd party advertising or marketing tracking code.
 
@@ -61,6 +62,7 @@ Any data you submit in this form may be shared with 3rd party service providers.
 When posting comments on this site, your data may be shared with a 3rd party service. These providers include, but are not limited to:
 
 - [Disqus](https://disqus.com/privacy-policy/)
+
 
 ---
 
