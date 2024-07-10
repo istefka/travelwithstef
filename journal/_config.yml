@@ -28,12 +28,12 @@ collections:
 # Pages
 defaults:
   - scope:
-      path: ""
+      path: "guide"
       type: projects
     values:
       layout: project
   - scope:
-      path: ""
+      path: "journal"
       type: posts
     values:
       layout: post
@@ -43,9 +43,9 @@ defaults:
     values:
       image: true
   - scope:
-      path: "topics"
+      path: "categories"
     values:
-      permalink: /:basename/
+      permalink: /category/:basename/
   - scope:
       path: "pages"
     values:
@@ -66,7 +66,7 @@ exclude:
 # Theme Config
 # --------------------
 title: "Jekyll Curate"
-category_dir: topics
+category_dir: category
 
 colors:
   #light-mode colors
@@ -126,8 +126,8 @@ header:
 open_graph:
   meta_opengraph_type: "website"
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: ""
+  meta_twitter_creator: ""
 
 darkmode:
   enable_dark_mode: false
