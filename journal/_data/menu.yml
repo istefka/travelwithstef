@@ -26,8 +26,8 @@ main:
         icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: "Top layout"
         url: /projects/project-4/
-  - name: Blog
-    url: /blog/
+  - name: Journal
+    url: /journal/
     weight: 2
   - name: About
     url: /about/
@@ -35,7 +35,6 @@ main:
   - name: Contact
     url: /contact/
     weight: 4
-  
 
 footer_primary:
   - name: "Project 1"
@@ -48,8 +47,8 @@ footer_primary:
     url: /projects/project-4/
 
 footer_secondary:
-  - name: Blog
-    url: /blog/
+  - name: Journal
+    url: /journal/
     weight: 2
   - name: About
     url: /about/

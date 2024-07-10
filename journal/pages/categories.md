@@ -1,5 +1,5 @@
 ---
 layout: categories
 title: Categories
-permalink: "/blog/categories/"
+permalink: "/journal/categories/"
 ---
